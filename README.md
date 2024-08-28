@@ -1,7 +1,9 @@
 # Proyecto - HiddenPass
 
-OBJETIVO GENERAL
+## RESUMEN EJECUTIVO
+HiddenPass Es un sistema de gestion de contraseña, el cual se crea con el objetivo de respaldar la seguridad de sus contraseñas de personas y empresas, almacenando y gestionando así las contraseñas de estos. 
 
+## OBJETIVO GENERAL
 Desarrollar una aplicación segura para escritorio y móvil nativo que permita el almacenamiento y gestión de contraseñas, mediante un sistema de cifrado de datos, la sincronización segura entre varios dispositivos y la generación de contraseñas únicas.
 
 Para cumplir con el objetivo de desarrollar una aplicación debemos desarrollar los siguientes objetivos:
