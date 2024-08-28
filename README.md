@@ -14,14 +14,14 @@ Desarrollar una aplicación segura para escritorio y móvil nativo que permita e
 
 Para cumplir con el objetivo de desarrollar una aplicación debemos desarrollar los siguientes objetivos:
 
-•	Analizar los requerimientos para generar una solución acorde
-•	Recopilar la información para tener mayor conocimiento
-•	Diseñar la base de datos 
-•	Codificar los módulos establecidos del sistema
-•	Realizar pruebas a la solución
-•	Implementar cifrados fuertes para asegurar que las contraseñas estén protegidas contra accesos no autorizados.
-•	Proporcionar una herramienta para la creación de contraseñas fuertes y únicas. 
-•	Favorecer la sincronización segura de contraseñas entre múltiples dispositivos (escritorio y móvil).
+1. Analizar los requerimientos para generar una solución acorde
+2. Recopilar la información para tener mayor conocimiento
+3. Diseñar la base de datos 
+4. Codificar los módulos establecidos del sistema
+5. Realizar pruebas a la solución
+6. Implementar cifrados fuertes para asegurar que las contraseñas estén protegidas contra accesos no autorizados.
+7. Proporcionar una herramienta para la creación de contraseñas fuertes y únicas. 
+8. Favorecer la sincronización segura de contraseñas entre múltiples dispositivos (escritorio y móvil).
 
 ## Justificación
 HiddenPass busca solucionar posibles amenazas a la seguridad de las cuentas de las personas. 
