@@ -1,7 +1,13 @@
 # Proyecto - HiddenPass
 
 ## RESUMEN EJECUTIVO
-HiddenPass Es un sistema de gestion de contraseña, el cual se crea con el objetivo de respaldar la seguridad de sus contraseñas de personas y empresas, almacenando y gestionando así las contraseñas de estos. 
+Este proyecto nace ante una notable falta de optimización y mejoramiento de la seguridad de los usuarios. 
+
+HIDDENPASS será una aplicación nativa de escritorio y móvil para la gestión de contraseñas y notas en el que prima la seguridad, la privacidad y facilidad de uso.   
+
+Para cumplir esta finalidad la aplicación tendrá capacidad de crear y gestionar contraseñas y notas de usuario, además, tendrá login e inicio de sesión en otros dispositivos seguro mediante la utilización de contraseña maestra.   
+
+Con factores diferenciadores tales como carpetas, generación y autocompletado de contraseñas, búsqueda y eliminación de las mismas, enlace y sincronización a dispositivos móviles, integrando a futuro mas funcionalidades tales como monitorización de filtraciones y sugerencias automatizadas para cambiar las contraseñas pasado cierto tiempo.  
 
 ## OBJETIVO GENERAL
 Desarrollar una aplicación segura para escritorio y móvil nativo que permita el almacenamiento y gestión de contraseñas, mediante un sistema de cifrado de datos, la sincronización segura entre varios dispositivos y la generación de contraseñas únicas.
